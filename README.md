@@ -37,7 +37,7 @@ The analytical portion of the project includes:
 ### Key Formula
 Capacity per stage:
 \[
-\Capacity = (3600/(Cycle Time)) * (Number Of Machines) 
+(3600/(Cycle Time)) * (Number Of Machines) 
 \]
 
 The system bottleneck is identified as the stage with the lowest capacity.
